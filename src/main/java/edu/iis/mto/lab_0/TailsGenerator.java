@@ -13,9 +13,7 @@ public class TailsGenerator {
             temp = temp.substring(0, temp.length() - 1);
         }
         tailList.add("");
-
         return tailList;
-        //return new ArrayList<>(value.length());
     }
 
 }
